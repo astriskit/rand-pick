@@ -1,0 +1,24 @@
+{
+  "name": "rand-pick",
+  "version": "1.0.0",
+  "description": "Utility to pick a random item from the list of items.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astriskit/rand-pick.git"
+  },
+  "keywords": [
+    "random",
+    "random-pick",
+    "random-item"
+  ],
+  "author": "H S <dcotre.1760@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/astriskit/rand-pick/issues"
+  },
+  "homepage": "https://github.com/astriskit/rand-pick#readme"
+}
